@@ -65,11 +65,55 @@ var colds = [
     "url":"https://drive.google.com/open?id=1dq78uBhyLU8JXq3dA4dZlwhcM6db4S8S"
   },
   {
-    "filename": "المزيد قادم",
+    "filename": "كتاب التركيبات الصيدلانية",
     "description": "سيتم إضافة وصف قريبا",
-    "url":""
+    "url":"https://drive.google.com/open?id=14ZOZ66pt3QGUzkF1kAmrd_3ntQ1Qqvux"
   },
-
+  {
+    "filename": "التبول اللا ارادي في الاطفال",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=1s6k24rem-gApCWWBugEt6M0K3gfHMMsh"
+  },
+  {
+    "filename": "سبعة وعشرين حالة مرضية وعلاجها",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=1SOlbgQHg3nCUgiJpAghlftWbgNm_t7Bc"
+  },
+  {
+    "filename": "ثمانية وثلاثون حالة مرضية شائعة",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=12JHsU7IiLc7rfptsggrJE2ZEz8Q4uUv-"
+  },
+  {
+    "filename": "كتاب الصيدلة العلاجية",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=1FO0lmbDLez-YO3vvo3jRDjo0fR9vPSnn"
+  },
+  {
+    "filename": "مذكرات طبيب إمتياز",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=1cmXUL5h2e4AwniIk9ovUN90VktvEMnBG"
+  },
+  {
+    "filename": "علاج أشهر حالات الجلدية مبسط جدا",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=138S3ywGWzF7YeZgLjkG-PwnX5pwjAaA-"
+  },
+  {
+    "filename": "حوارات صيدلانية - الزتونة - د. احمد الجويلي النسخة الأصلية",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=1ngWo6A_BvBDUROAt79DIf5PLO7OqraoG"
+  },
+  {
+    "filename": "الإستخدامات الغير شائعة للأدوية",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=1dRjjwJyedB_n6PqePbzcgGzVy_7s_9tz"
+  },
+  {
+    "filename": "مقتطفات طبيه",
+    "description": "سيتم إضافة وصف قريبا",
+    "url":"https://drive.google.com/open?id=14DBXpjP5N130ji1Vx__3chhehIFFL2NZ"
+  },
 
   
 ];
