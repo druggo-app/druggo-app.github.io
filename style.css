@@ -1,0 +1,14 @@
+.nav-link,.navbar-brand{
+    color: white !important;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.navbar .nav-item .nav-link:hover{
+    color: black !important;
+    font-weight: bold;
+    transition: all.5s ease-in-out;
+}
+h2 .fa{
+    color: gold;
+    font-size: 30px;
+}
