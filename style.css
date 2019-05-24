@@ -2,6 +2,7 @@
     color: white !important;
     font-weight: bold;
     text-transform: uppercase;
+    height: 30px;
 }
 .navbar .nav-item .nav-link:hover{
     color: black !important;
