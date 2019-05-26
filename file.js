@@ -134,3 +134,22 @@ document.getElementById("downloadlink").href=colds[ele.selectedIndex - 1]['url']
 msg.innerHTML = 
   ' الوصف : <b>' + colds[ele.selectedIndex - 1]['description']; + '';
 }
+
+function copylink() {
+  /* Get the text field */
+  var textArea = document.getElementById("download_link");
+
+  textArea.select();
+  document.execCommand("Copy");
+  /* Select the text field */
+
+  /* Copy the text inside the text field */
+  document.execCommand("copy");
+
+  /* Alert the copied text */
+  alert("تم نسخ : " + textArea.value);
+  if (confirm('هل أعجبتك ؟ أعطينا تقييم للتطبيق لنرفع المزيد')) {
+    window.location.href = "https://play.google.com/store/apps/details?id=com.otc";
+
+} 
+}

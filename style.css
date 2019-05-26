@@ -13,3 +13,8 @@ h2 .fa{
     color: gold;
     font-size: 30px;
 }
+textarea{
+    resize: none; 
+    white-space: nowrap;
+    overflow-x: auto;
+}
