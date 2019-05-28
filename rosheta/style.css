@@ -24,3 +24,12 @@ h2 .fa{
         justify-content: center;
     }
 }
+
+#output {
+    white-space: pre;
+    padding:32px;
+    font-size:20px;
+    color: black !important;
+    font-weight: bold;
+    transition: all.5s ease-in-out;
+  }
