@@ -39,6 +39,7 @@ h2 .fa{
   width: 100%;
   border: 6px solid blueviolet;
   font-size: 18px;
+  table-layout: fixed;
 }
 .table a
 {
