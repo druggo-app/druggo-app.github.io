@@ -122,7 +122,7 @@ function translateArEn(word) {
   for (var i = 0; i < arabicLetters.length; i++){
     var l = arabicLetters[i]
     if (l === ''){e.push('')}
-    else if (l === 'ا'){e.push('')}
+    else if (l === 'ا'){e.push('a')}
     else if (l === 'ب'){e.push('b')}
     else if (l === 'ت'){e.push('t')}
     else if (l === 'ث'){e.push('s')}
@@ -149,12 +149,12 @@ function translateArEn(word) {
     else if (l === 'ن'){e.push('n')}
     else if (l === 'ه'){e.push('h')}
     else if (l === 'ة'){e.push('h')}
-    else if (l === 'و'){e.push('')}
+    else if (l === 'و'){e.push('w')}
     else if (l === 'ي'){e.push('e')}
     else if (l === 'ى'){e.push('e')}
-    else if (l === 'آ'){e.push('')}
-    else if (l === 'إ'){e.push('')}
-    else {e.push('')}
+    else if (l === 'آ'){e.push('a')}
+    else if (l === 'إ'){e.push('e')}
+    else {e.push('a')}
   }
 }
   return(e)
@@ -279,8 +279,8 @@ function searchWord() {
     if ("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ".includes(arabicLetters[0])){
       var a = translateArEn(Word)
       var b = permute_wordEn(a)
-      //console.log("b.length")
-      //console.log(b.length)
+      console.log("b")
+      console.log(b)
       var c = cartesianProduct(b);
       var d = createFinalWords(c)
       var mmm = matchEn2(d)
@@ -297,8 +297,11 @@ function searchWord() {
           j = j + 1
       }}
       for (var i = 0; i < mmm2.length; i++){
-
-        if (!mmm2[i].result.startsWith(arabicLetters[0].toUpperCase())){
+        firstletter = mmm2[i].result[0].toLowerCase()
+        console.log("firstletter")
+        console.log(firstletter)
+        console.log(b[0].indexOf(firstletter))
+        if (b[0].indexOf(firstletter) < 0){
         mmm2[i].key = mmm2[i].key + 9999
       }}
       console.log(mmm2)
@@ -306,7 +309,10 @@ function searchWord() {
     }
     else{
       a = translateArEn(Word)
+      console.log("a is")
+      console.log(a)
       var b = permute_word(a)
+      
       var c = cartesianProduct(b);
       var d = createFinalWords(c)
       var mmm = findinIndex(d)
@@ -320,9 +326,13 @@ function searchWord() {
           j = j + 1
       }}
       for (var i = 0; i < mmm2.length; i++){
-        console.log(mmm2[i])
-        if (!mmm2[i].result.startsWith(a[0].toUpperCase())){
-        mmm2[i].key = mmm2[i].key + 9999
+
+        firstletter = mmm2[i].result[0].toLowerCase()
+        console.log("firstletter")
+        console.log(firstletter)
+        console.log(a[0].indexOf(firstletter))
+        if (b[0].indexOf(firstletter) < 0){
+          mmm2[i].key = mmm2[i].key + 9999
       }}
 
 
@@ -353,7 +363,7 @@ function searchWord() {
         tr[i+1].getElementsByTagName("td")[1].appendChild(link);
 
 
-
+        console.log(mmm2[i])
         var genname = genericName[-1+(mmm2[i].drugindex)];
         var link2 = document.createElement('a');
         link2.textContent = genname;
