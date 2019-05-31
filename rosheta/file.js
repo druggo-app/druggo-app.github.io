@@ -371,6 +371,12 @@ function nextItem() {
     document.getElementById('output').textContent = txtArray[i]
     document.getElementById('output_image').src = imgArray[i]
     changeinput(i) 
+    if (i === 5){
+      if (confirm('هل أعجبتك ؟ أعطينا تقييم للتطبيق لنرفع المزيد')) {
+         window.location.href = "https://play.google.com/store/apps/details?id=com.otc";
+
+  }
+    }
 
 }
 }
