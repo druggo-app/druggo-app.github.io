@@ -19,126 +19,16 @@ function addInfoBubble(map) {
       // show info bubble
       ui.addBubble(bubble);
     }, false);
-addMarkerToGroup(group, {lat:30.0864201, lng:31.189176},
-        `<h4>Beshoy Nader Boushra </h4>`  +
-        `<div ><a href=\'mailto:beshoawad13@gmail.com\' >beshoawad13@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01203207818\' >01203207818</a></div>` + 
-        `<div>Yet student</div>` +
-        `<div>احتاج تدريب ف شركة أدوية انا طالب ف السنة الثالثة كلية علوم جامعة حلوان قسم بيولوجي</div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:31.2188386, lng:29.9450682},
-        `<h4>Mahmoud shawky </h4>`  +
-        `<div ><a href=\'mailto:mash22057@gmail.com \' >mash22057@gmail.com </a></div>` + 
-        `<div ><a href=\'tel:01064928358 \' >01064928358 </a></div>` + 
-        `<div>Pharmcist 2016 </div>` +
-        `<div>Kobry El-Qobba hospital
-Pharmacist at dr Abdalla pharmcy
-Dr ahmed sad pharmcy
-Training in Elazby pharmcy </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:30.3064524, lng:31.3323955},
-        `<h4>Esraa abd elhameid </h4>`  +
-        `<div ><a href=\'mailto:esraaabdo5197@gmail.com\' >esraaabdo5197@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01023585198\' >01023585198</a></div>` + 
-        `<div> Faculty of Sciences
-Special Chemistry Department</div>` +
-        `<div>Training in oil and pharmaceutical companies
-
-Training with analysis laboratories</div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:29.0738067, lng:31.1110982},
-        `<h4>Essam Ramadan Mahmoud </h4>`  +
-        `<div ><a href=\'mailto:Essam14shika@gmail.com \' >Essam14shika@gmail.com </a></div>` + 
-        `<div ><a href=\'tel:01147486262 \' >01147486262 </a></div>` + 
-        `<div>Science 2014</div>` +
-        `<div>Medizen pharmaceutical 1/2018 till now
-Unipharma 12/2016 to 12/2017
-Prof. Assistant in air defence college </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:31.1344727, lng:33.7982304},
-        `<h4>Ahked Abdel Rahman Selem Azazy</h4>`  +
-        `<div ><a href=\'mailto:Azazyahmed44@gmail.com\' >Azazyahmed44@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01282143287& 01060556411\' >01282143287& 01060556411</a></div>` + 
-        `<div>Faculty of pharmacy Sinai Univeraity june 2016</div>` +
-        `<div>
-Pharmacist at sedra pharmacy from 1/10/2016 till 31/9/2018
-Demonstrator at faculty of pharmacy sinai university from 1/10/2018 till now
-</div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:30.587676, lng:31.501997},
-        `<h4>Asmaa Nasr</h4>`  +
-        `<div ><a href=\'mailto:elnagarasmaa816@gmail.com \' >elnagarasmaa816@gmail.com </a></div>` + 
-        `<div ><a href=\'tel:01068221725\' >01068221725</a></div>` + 
-        `<div>Faculty of Commerce</div>` +
-        `<div>انا طالبه ف كليه تجارة
-اشتغلت 4 شهور ف صيدلية 
-عندي خبرة لحد ما كويسة 
-ابحث عن عمل ف صيدلية </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:29.3211544, lng:30.7901045},
-        `<h4>Ahmed gooda abd alazim </h4>`  +
-        `<div ><a href=\'mailto:Ahmedgooda109@gmail.com\' >Ahmedgooda109@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01093092178 \' >01093092178 </a></div>` + 
-        `<div>سنه التخرج 2019  كليه تجاره جامعه بني سويف </div>` +
-        `<div>عملت سابقاً كا midcal في شركه رعاية
-عمالت أيضآ في المتحدة كا تلي سيلز
-عمالت مندوب مبيعات في شركه ادويه حول العالم
-عمالت كا midcal ع product ال pandol </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:31.0261588, lng:30.4675444},
-        `<h4>Farah ahmed fahmy,,,,,, in behera _damanhour</h4>`  +
-        `<div ><a href=\'mailto:Memomoon96@yahoo.com\' >Memomoon96@yahoo.com</a></div>` + 
-        `<div ><a href=\'tel:01096706744\' >01096706744</a></div>` + 
-        `<div>Graduated from the Faculty of Science in 2018</div>` +
-        `<div>Training in the general hospital ,,,,
- First aid course in the Faculty of Science, ,,, Worked in voluntary work Orman Society ,,,, Worked in a laboratory analysis in Damanhour</div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:29.309949, lng:30.841804},
-        `<h4>Mahmoud Ahmed fathy</h4>`  +
-        `<div ><a href=\'mailto:hota_2026@yahoo.com\' >hota_2026@yahoo.com</a></div>` + 
-        `<div ><a href=\'tel:01060129791\' >01060129791</a></div>` + 
-        `<div>2014,bacalor</div>` +
-        `<div>ابحث عن وظيفة ف سلسلة ادوية من السلاسل الكبري ، خبرة اكثر من 7 سنوات ف مجال الصيدليات ،اشتغلت في شركات ادوية مثل فارمااوفرسيز واكتسبت خبرة ف هذا المجال ولدي خبرة في مايختص الادوية والصيدليات من الادارة  والطلبيات والادوية </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:24.0747397, lng:32.9002665},
-        `<h4>محمد عصام إدفاوي محمد </h4>`  +
-        `<div ><a href=\'mailto:dr.mohamedesaam55@gamil.com \' >dr.mohamedesaam55@gamil.com </a></div>` + 
-        `<div ><a href=\'tel:01021726764\' >01021726764</a></div>` + 
-        `<div>بكالوريوس صيدلة النهضة ٢٠١٧ </div>` +
-        `<div>Medical representative Aswan in rameda company
-Work at Ahmed Ali hmad pharmacy 
-Work At abden pharmacy
-Training at epico company </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:30.9694583, lng:31.1922107},
-        `<h4>RANA Esam Abd El Aziz Drrag</h4>`  +
-        `<div ><a href=\'mailto:dr.ranaesam@gmail.com\' >dr.ranaesam@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01148130699\' >01148130699</a></div>` + 
-        `<div>Bachelor degree in science 2018 chemistry department Mansoura university </div>` +
-        `<div>6 months experience at welcome pharma
-Experience in derma, ortho, pedia, gyna
-Have sales planning course at bepac center
-Trained at El Dokki research center </div>` 
+addMarkerToGroup(group, {lat:30.7970093, lng:31.6219939},
+        `<h4>Ahmad Mansour</h4>`  +
+        `<div ><a href=\'mailto:Www.ahmadmansouresmaiel@gmail.com\' >Www.ahmadmansouresmaiel@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01095079364\' >01095079364</a></div>` + 
+        `<div>Pharmacist / 2017</div>` +
+        `<div>Nothing experience 
+Nothing experience
+Nothing experience
+Nothing experience
+😇😇😇😇😇😇😇</div>` 
         
         );
         
@@ -155,6 +45,152 @@ Jop pharmacist in Normandy pharmacy
         
         );
         
+addMarkerToGroup(group, {lat:30.587676, lng:31.501997},
+        `<h4>Asmaa Nasr</h4>`  +
+        `<div ><a href=\'mailto:elnagarasmaa816@gmail.com \' >elnagarasmaa816@gmail.com </a></div>` + 
+        `<div ><a href=\'tel:01068221725\' >01068221725</a></div>` + 
+        `<div>Faculty of Commerce</div>` +
+        `<div>انا طالبه ف كليه تجارة
+اشتغلت 4 شهور ف صيدلية 
+عندي خبرة لحد ما كويسة 
+ابحث عن عمل ف صيدلية </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.032821, lng:30.42527},
+        `<h4>Wael Zakaria Abd Elwanese</h4>`  +
+        `<div ><a href=\'mailto:Wael_abdelghany2016@yahoo.com\' >Wael_abdelghany2016@yahoo.com</a></div>` + 
+        `<div ><a href=\'tel:01026309198\' >01026309198</a></div>` + 
+        `<div>Faculity of science2011</div>` +
+        `<div>Work in devart lab as medical rep for 2.5 years then live up as key account for 1 year 
+Then worked in hygint 
+Then worked senior acting as super visor in chemist pharm
+Now working senior in innogen pharm (Obour)</div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:24.0747397, lng:32.9002665},
+        `<h4>محمد عصام إدفاوي محمد </h4>`  +
+        `<div ><a href=\'mailto:dr.mohamedesaam55@gamil.com \' >dr.mohamedesaam55@gamil.com </a></div>` + 
+        `<div ><a href=\'tel:01021726764\' >01021726764</a></div>` + 
+        `<div>بكالوريوس صيدلة النهضة ٢٠١٧ </div>` +
+        `<div>Medical representative Aswan in rameda company
+Work at Ahmed Ali hmad pharmacy 
+Work At abden pharmacy
+Training at epico company </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.1477172, lng:30.1260363},
+        `<h4>Mohamed samir Elkholy </h4>`  +
+        `<div ><a href=\'mailto:Hamada_el5oly60@yahoo.com \' >Hamada_el5oly60@yahoo.com </a></div>` + 
+        `<div ><a href=\'tel:01272072516\' >01272072516</a></div>` + 
+        `<div>Pharmacist     2017</div>` +
+        `<div>ميديكال ريب في نطاق محافظه البحيره او اسكندريه 
+فريش 
+خريج دفعه 2017
+خبره في عمل الصيدليات </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:30.1227709, lng:31.2632859},
+        `<h4>Shaimaa ramadan</h4>`  +
+        `<div ><a href=\'mailto:Shaimaaanwar904@yahoo.com \' >Shaimaaanwar904@yahoo.com </a></div>` + 
+        `<div ><a href=\'tel:01015630283\' >01015630283</a></div>` + 
+        `<div>بكالريوس طب وجراحة القصر العيني </div>` +
+        `<div>تدريب في صيدليه لمدة ٣ شهور
+تدريب في AMD pharma لمدة شهرين A. M
+تدريب لمدة ٤ شهور في مستشفى القصر العيني كطبيبه امتياز تحت التدريب
+خبرة في شيفتات الrenal dialysis </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.22702, lng:29.9832463},
+        `<h4>Amr Hassan Abu-Haisa</h4>`  +
+        `<div ><a href=\'mailto:amrhassan9774@gmail.com\' >amrhassan9774@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01093554265\' >01093554265</a></div>` + 
+        `<div>Bachelor of science 2019 </div>` +
+        `<div>I'm fresh graduated from faculty of science ,Alex Univ. 
+I want to have a good job in an ambitious place to have good experience in addition to good salary . 
+It may be as a chemist in pharmaceutical company or even a medical representative . 
+Thanks </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:30.3064524, lng:31.3323955},
+        `<h4>Esraa abd elhameid </h4>`  +
+        `<div ><a href=\'mailto:esraaabdo5197@gmail.com\' >esraaabdo5197@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01023585198\' >01023585198</a></div>` + 
+        `<div> Faculty of Sciences
+Special Chemistry Department</div>` +
+        `<div>Training in oil and pharmaceutical companies
+
+Training with analysis laboratories</div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.0261588, lng:30.4675444},
+        `<h4>Farah ahmed fahmy,,,,,, in behera _damanhour</h4>`  +
+        `<div ><a href=\'mailto:Memomoon96@yahoo.com\' >Memomoon96@yahoo.com</a></div>` + 
+        `<div ><a href=\'tel:01096706744\' >01096706744</a></div>` + 
+        `<div>Graduated from the Faculty of Science in 2018</div>` +
+        `<div>Training in the general hospital ,,,,
+ First aid course in the Faculty of Science, ,,, Worked in voluntary work Orman Society ,,,, Worked in a laboratory analysis in Damanhour</div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:29.6438371, lng:31.2711392},
+        `<h4>Ahmed younis</h4>`  +
+        `<div ><a href=\'mailto:Shooter.2022@gmail.com\' >Shooter.2022@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01014486427\' >01014486427</a></div>` + 
+        `<div>Mass communication </div>` +
+        `<div>Medical representatives in pharma tread 
+Medical representatives  in promedical
+Medical representatives  in cardinal pharma
+Supervisor Medical representatives in Eagel pharma 
+Sinor medical representatives in Roventis pharma </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:30.0827291, lng:31.2343487},
+        `<h4>Mahmoud Mohamed taha</h4>`  +
+        `<div ><a href=\'mailto:mahmoooooud14@gmail.com\' >mahmoooooud14@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01154634029\' >01154634029</a></div>` + 
+        `<div>Bachelor of Science      2019</div>` +
+        `<div>Medical rip 
+ Experience : - Vodafone egypt
+       - TE _data company 
+       - training in agiba petroleum company  
+                   </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:30.8049014, lng:30.5281105},
+        `<h4>سمر رفعت خميس </h4>`  +
+        `<div ><a href=\'mailto:Samarkhamis99@yahoo.com\' >Samarkhamis99@yahoo.com</a></div>` + 
+        `<div ><a href=\'tel:01062811634\' >01062811634</a></div>` + 
+        `<div>بكالوريوس علوم 2019</div>` +
+        `<div>1-تدريب لمدة سنة ف معمل 
+2- تدريب لمدة سنة ف صيدلية 
+3- تدريب لدي شركة غرب الدلتا لإنتاج الكهوباء لمدة شهر 
+4- البرنامج التدريبي للسلامة والصحة المهنية لمدة اسبوع 
+5- course in medical laboratory workshop and scientific research program 
+5- تدريب لمدة ستة أشهر ف مستشفي 
+6-تدريب لدي شركة مياة لمدة أسبوعين   </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.1363247, lng:30.1312604},
+        `<h4>Mahmoud Elsayed Abd Elaziz Elshaer</h4>`  +
+        `<div ><a href=\'mailto:Melshaaeer29@gmail.com\' >Melshaaeer29@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01287989380\' >01287989380</a></div>` + 
+        `<div>P.of.science alex uni</div>` +
+        `<div>Work as M.rep at bio cure pharm from 4/2018 to 12/2018
+M.rep at medical group pharm from 1/2019 to 6/2019
+</div>` 
+        
+        );
+        
 addMarkerToGroup(group, {lat:29.6438371, lng:31.2711392},
         `<h4>Ahmed younis</h4>`  +
         `<div ><a href=\'mailto:Shooter.2022@gmail.com\' >Shooter.2022@gmail.com</a></div>` + 
@@ -166,20 +202,6 @@ Medical representatives  in cardinal pharma
 Supervisor Medical representatives in Eagel pharma 
 Sinor medical representatives in Roventis pharma 
 Area Giza center </div>` 
-        
-        );
-        
-addMarkerToGroup(group, {lat:31.1418051, lng:30.2004118},
-        `<h4>Rana maher</h4>`  +
-        `<div ><a href=\'mailto:rona1maher@gmail.com\' >rona1maher@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01272123342\' >01272123342</a></div>` + 
-        `<div>Fuctly of education ..science 2019</div>` +
-        `<div>Worked in pharmacy 
- worked in company
-Learning english in real soft house
-Fuctly of education 
-Department of science
-</div>` 
         
         );
         
@@ -212,16 +234,25 @@ I have good pharmaceutical basic sell skills </div>`
         
         );
         
-addMarkerToGroup(group, {lat:29.6438371, lng:31.2711392},
-        `<h4>Ahmed younis</h4>`  +
-        `<div ><a href=\'mailto:Shooter.2022@gmail.com\' >Shooter.2022@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01014486427\' >01014486427</a></div>` + 
-        `<div>Mass communication </div>` +
-        `<div>Medical representatives in pharma tread 
-Medical representatives  in promedical
-Medical representatives  in cardinal pharma
-Supervisor Medical representatives in Eagel pharma 
-Sinor medical representatives in Roventis pharma </div>` 
+addMarkerToGroup(group, {lat:29.0738067, lng:31.1110982},
+        `<h4>Essam Ramadan Mahmoud </h4>`  +
+        `<div ><a href=\'mailto:Essam14shika@gmail.com \' >Essam14shika@gmail.com </a></div>` + 
+        `<div ><a href=\'tel:01147486262 \' >01147486262 </a></div>` + 
+        `<div>Science 2014</div>` +
+        `<div>Medizen pharmaceutical 1/2018 till now
+Unipharma 12/2016 to 12/2017
+Prof. Assistant in air defence college </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.1390763, lng:30.6525252},
+        `<h4>Alaa Samir </h4>`  +
+        `<div ><a href=\'mailto:Alaasamir325@gmail.com\' >Alaasamir325@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01004870218\' >01004870218</a></div>` + 
+        `<div>Graduated from pharmacy 2018</div>` +
+        `<div>Product specialist in EZ-PAC COMPANY 
+from September 2018 until now 
+Mahfouz pharmacy </div>` 
         
         );
         
@@ -238,50 +269,54 @@ Worked at wekash for network marketing (2015)
         
         );
         
-addMarkerToGroup(group, {lat:30.7970093, lng:31.6219939},
-        `<h4>Ahmad Mansour</h4>`  +
-        `<div ><a href=\'mailto:Www.ahmadmansouresmaiel@gmail.com\' >Www.ahmadmansouresmaiel@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01095079364\' >01095079364</a></div>` + 
-        `<div>Pharmacist / 2017</div>` +
-        `<div>Nothing experience 
-Nothing experience
-Nothing experience
-Nothing experience
-😇😇😇😇😇😇😇</div>` 
+addMarkerToGroup(group, {lat:30.9694583, lng:31.1922107},
+        `<h4>RANA Esam Abd El Aziz Drrag</h4>`  +
+        `<div ><a href=\'mailto:dr.ranaesam@gmail.com\' >dr.ranaesam@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01148130699\' >01148130699</a></div>` + 
+        `<div>Bachelor degree in science 2018 chemistry department Mansoura university </div>` +
+        `<div>6 months experience at welcome pharma
+Experience in derma, ortho, pedia, gyna
+Have sales planning course at bepac center
+Trained at El Dokki research center </div>` 
         
         );
         
-addMarkerToGroup(group, {lat:31.1363247, lng:30.1312604},
-        `<h4>Mahmoud Elsayed Abd Elaziz Elshaer</h4>`  +
-        `<div ><a href=\'mailto:Melshaaeer29@gmail.com\' >Melshaaeer29@gmail.com</a></div>` + 
-        `<div ><a href=\'tel:01287989380\' >01287989380</a></div>` + 
-        `<div>P.of.science alex uni</div>` +
-        `<div>Work as M.rep at bio cure pharm from 4/2018 to 12/2018
-M.rep at medical group pharm from 1/2019 to 6/2019
+addMarkerToGroup(group, {lat:31.1344727, lng:33.7982304},
+        `<h4>Ahked Abdel Rahman Selem Azazy</h4>`  +
+        `<div ><a href=\'mailto:Azazyahmed44@gmail.com\' >Azazyahmed44@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01282143287& 01060556411\' >01282143287& 01060556411</a></div>` + 
+        `<div>Faculty of pharmacy Sinai Univeraity june 2016</div>` +
+        `<div>
+Pharmacist at sedra pharmacy from 1/10/2016 till 31/9/2018
+Demonstrator at faculty of pharmacy sinai university from 1/10/2018 till now
 </div>` 
         
         );
         
-addMarkerToGroup(group, {lat:25.8996293, lng:32.7244302},
-        `<h4>Baher galal</h4>`  +
-        `<div ><a href=\'mailto:Bahervet@yahoo.com\' >Bahervet@yahoo.com</a></div>` + 
-        `<div ><a href=\'tel:٠١٢٢٢٧٤٤٢٨٨\' >٠١٢٢٢٧٤٤٢٨٨</a></div>` + 
-        `<div>Faculty of veterinary medicine 2016</div>` +
-        `<div>Experience : 
-Training in el ragaa pharmacy 
-Worked for bluemoon animal center hurguada </div>` 
+addMarkerToGroup(group, {lat:31.1418051, lng:30.2004118},
+        `<h4>Rana maher</h4>`  +
+        `<div ><a href=\'mailto:rona1maher@gmail.com\' >rona1maher@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01272123342\' >01272123342</a></div>` + 
+        `<div>Fuctly of education ..science 2019</div>` +
+        `<div>Worked in pharmacy 
+ worked in company
+Learning english in real soft house
+Fuctly of education 
+Department of science
+</div>` 
         
         );
         
-addMarkerToGroup(group, {lat:31.1477172, lng:30.1260363},
-        `<h4>Mohamed samir Elkholy </h4>`  +
-        `<div ><a href=\'mailto:Hamada_el5oly60@yahoo.com \' >Hamada_el5oly60@yahoo.com </a></div>` + 
-        `<div ><a href=\'tel:01272072516\' >01272072516</a></div>` + 
-        `<div>Pharmacist     2017</div>` +
-        `<div>ميديكال ريب في نطاق محافظه البحيره او اسكندريه 
-فريش 
-خريج دفعه 2017
-خبره في عمل الصيدليات </div>` 
+addMarkerToGroup(group, {lat:31.1596916, lng:29.8670634},
+        `<h4>Ehab Abdelazez</h4>`  +
+        `<div ><a href=\'mailto:ehababdelazez33@gmail.com\' >ehababdelazez33@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01140520565\' >01140520565</a></div>` + 
+        `<div> Pharmacist class 2017</div>` +
+        `<div>Have good experience in community pharmacy
+Fresh graduated
+Have marketing skills course at 2015 
+Language is Excellent
+</div>` 
         
         );
         
@@ -294,18 +329,83 @@ addMarkerToGroup(group, {lat:29.309949, lng:30.841804},
         
         );
         
-addMarkerToGroup(group, {lat:30.8049014, lng:30.5281105},
-        `<h4>سمر رفعت خميس </h4>`  +
-        `<div ><a href=\'mailto:Samarkhamis99@yahoo.com\' >Samarkhamis99@yahoo.com</a></div>` + 
-        `<div ><a href=\'tel:01062811634\' >01062811634</a></div>` + 
-        `<div>بكالوريوس علوم 2019</div>` +
-        `<div>1-تدريب لمدة سنة ف معمل 
-2- تدريب لمدة سنة ف صيدلية 
-3- تدريب لدي شركة غرب الدلتا لإنتاج الكهوباء لمدة شهر 
-4- البرنامج التدريبي للسلامة والصحة المهنية لمدة اسبوع 
-5- course in medical laboratory workshop and scientific research program 
-5- تدريب لمدة ستة أشهر ف مستشفي 
-6-تدريب لدي شركة مياة لمدة أسبوعين   </div>` 
+addMarkerToGroup(group, {lat:30.5952679, lng:31.2456463},
+        `<h4>رويده ابراهيم الديساوي معروف </h4>`  +
+        `<div ><a href=\'mailto:Dedahema717@Gmail.com\' >Dedahema717@Gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01012759734\' >01012759734</a></div>` + 
+        `<div>كليه الطب البيطري ..ببنها </div>` +
+        `<div>تم التدريب في مزارع دينا 
+تم التدريب ف مصنع اجرينا
+تم التدريب ف shilter hope
+تم التدريب بالوحده البيطريه بقريه بتمده</div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:30.0864201, lng:31.189176},
+        `<h4>Beshoy Nader Boushra </h4>`  +
+        `<div ><a href=\'mailto:beshoawad13@gmail.com\' >beshoawad13@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01203207818\' >01203207818</a></div>` + 
+        `<div>Yet student</div>` +
+        `<div>احتاج تدريب ف شركة أدوية انا طالب ف السنة الثالثة كلية علوم جامعة حلوان قسم بيولوجي</div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.2188386, lng:29.9450682},
+        `<h4>Mahmoud shawky </h4>`  +
+        `<div ><a href=\'mailto:mash22057@gmail.com \' >mash22057@gmail.com </a></div>` + 
+        `<div ><a href=\'tel:01064928358 \' >01064928358 </a></div>` + 
+        `<div>Pharmcist 2016 </div>` +
+        `<div>Kobry El-Qobba hospital
+Pharmacist at dr Abdalla pharmcy
+Dr ahmed sad pharmcy
+Training in Elazby pharmcy </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:31.0336084, lng:30.4585552},
+        `<h4>John Joseph Said Ragheb</h4>`  +
+        `<div ><a href=\'mailto:Jj934291@gmail.com\' >Jj934291@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01276791531\' >01276791531</a></div>` + 
+        `<div>4th year student at faculty of science damanhour university</div>` +
+        `<div>-Summer 2016: Training at Alshimaa pharmacy.
+-From October 2017 to May 2018: Worked at Elraee Elslaeh hospital(GSH).
+-Summer 2018:water treatment training at water company of damanhour.
+-Training at Alrahma pharmacy.
+-From May 2019 till now: Worked at Dr.Moheb pharmacy.
+-I participated in blood donation campaign in damanhour
+</div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:29.309949, lng:30.841804},
+        `<h4>Mahmoud Ahmed fathy</h4>`  +
+        `<div ><a href=\'mailto:hota_2026@yahoo.com\' >hota_2026@yahoo.com</a></div>` + 
+        `<div ><a href=\'tel:01060129791\' >01060129791</a></div>` + 
+        `<div>2014,bacalor</div>` +
+        `<div>ابحث عن وظيفة ف سلسلة ادوية من السلاسل الكبري ، خبرة اكثر من 7 سنوات ف مجال الصيدليات ،اشتغلت في شركات ادوية مثل فارمااوفرسيز واكتسبت خبرة ف هذا المجال ولدي خبرة في مايختص الادوية والصيدليات من الادارة  والطلبيات والادوية </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:29.3211544, lng:30.7901045},
+        `<h4>Ahmed gooda abd alazim </h4>`  +
+        `<div ><a href=\'mailto:Ahmedgooda109@gmail.com\' >Ahmedgooda109@gmail.com</a></div>` + 
+        `<div ><a href=\'tel:01093092178 \' >01093092178 </a></div>` + 
+        `<div>سنه التخرج 2019  كليه تجاره جامعه بني سويف </div>` +
+        `<div>عملت سابقاً كا midcal في شركه رعاية
+عمالت أيضآ في المتحدة كا تلي سيلز
+عمالت مندوب مبيعات في شركه ادويه حول العالم
+عمالت كا midcal ع product ال pandol </div>` 
+        
+        );
+        
+addMarkerToGroup(group, {lat:25.8996293, lng:32.7244302},
+        `<h4>Baher galal</h4>`  +
+        `<div ><a href=\'mailto:Bahervet@yahoo.com\' >Bahervet@yahoo.com</a></div>` + 
+        `<div ><a href=\'tel:٠١٢٢٢٧٤٤٢٨٨\' >٠١٢٢٢٧٤٤٢٨٨</a></div>` + 
+        `<div>Faculty of veterinary medicine 2016</div>` +
+        `<div>Experience : 
+Training in el ragaa pharmacy 
+Worked for bluemoon animal center hurguada </div>` 
         
         );
         
